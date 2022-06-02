@@ -150,8 +150,6 @@ footer h4{
 
 /* HTML Noticias */
 
-
-
 #noticias .card{
     background-color: #f5d020;
     background-image: linear-gradient(315deg, #f5d020 0%, #f55c03 74%);
@@ -164,6 +162,20 @@ footer h4{
 }
 
 /* Fin HTML Noticias */
+
+/* HTML Form*/
+
+#form .contenedor{
+    max-width: 500px !important;
+    margin: 0 auto;
+}
+
+#form {
+    font-family: Montserrat;
+}
+
+
+/* Fin HTML Form */
 
 /* Responsive */
 
